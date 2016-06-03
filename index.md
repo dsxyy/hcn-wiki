@@ -8,6 +8,8 @@
   * [OpenCOS培训-Ceilometer & Heat](ceilometer/OpenCOS培训-Ceilometer & Heat.pdf)
   * [ceilometer统计项(英文、全)](ceilometer/OpenCOS性能指标.pdf)
   * [ceilometer统计项(中文)](ceilometer/性能数据模型-0427.htm)
+  * [L版本Heat BP分析](ceilometer/L版本Heat BP分析.xlsx)
+  * [M版本Heat BP分析](ceilometer/M版本Heat BP分析.md)
 
 
 ## ELK
@@ -17,7 +19,7 @@
 
 ## Zabbix
 
-  * todo
+  * [HCN-20160509-002 zabbix 特性白皮书](ceilometer/HCN-20160509-002 zabbix 特性白皮书/TECS zabbix 特性白皮书.md)
 
 
 ## Heat
