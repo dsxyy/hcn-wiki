@@ -12,7 +12,7 @@
 
 ## ELK
 
-  * todo
+  * [ELK日志系统的discover界面使用指南](ELK/ELK日志系统的discover界面使用指南/ELK日志系统的discover界面使用指南.md)
 
 
 ## Zabbix
