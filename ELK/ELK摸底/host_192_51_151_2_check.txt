@@ -1,0 +1,1949 @@
+Fri May 27 15:15:49 2016
+elasticsearch: cpu_util = 1.200000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 16:15:50 2016
+elasticsearch: cpu_util = 1.200000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 17:15:51 2016
+elasticsearch: cpu_util = 1.200000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 18:15:52 2016
+elasticsearch: cpu_util = 1.200000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 19:15:52 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 20:15:53 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 21:15:54 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 22:15:55 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri May 27 23:15:56 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 00:15:56 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 01:15:57 2016
+elasticsearch: cpu_util = 1.300000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+280K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 02:15:58 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 03:15:59 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 04:16:00 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 05:16:01 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 06:16:01 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 07:16:02 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 08:16:03 2016
+elasticsearch: cpu_util = 1.400000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 09:16:04 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 10:16:05 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 11:16:06 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 12:16:06 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 13:16:07 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 14:16:08 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Sat May 28 14:16:09 2016
+oneday average ecpu_util = 1.362500; emem_util = 0.300000.
+
+oneday average scpu_util = 8.220833; smem_util = 0.100000.
+
+oneday average icpu_util = 3.058333; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Sat May 28 15:16:09 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 16:16:10 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 17:16:11 2016
+elasticsearch: cpu_util = 1.500000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 18:16:11 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 19:16:12 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 20:16:13 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 21:16:14 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 22:16:15 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sat May 28 23:16:15 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 00:16:16 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 01:16:17 2016
+elasticsearch: cpu_util = 1.600000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+284K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 02:16:18 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 03:16:19 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 04:16:20 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 05:16:20 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 06:16:21 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 07:16:22 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 08:16:23 2016
+elasticsearch: cpu_util = 1.700000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 09:16:24 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 10:16:25 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 11:16:25 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 12:16:26 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 13:16:27 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 14:16:28 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Sun May 29 14:16:29 2016
+oneday average ecpu_util = 1.666667; emem_util = 0.300000.
+
+oneday average scpu_util = 8.100000; smem_util = 0.100000.
+
+oneday average icpu_util = 2.979167; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Sun May 29 15:16:29 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 16:16:30 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 17:16:30 2016
+elasticsearch: cpu_util = 1.800000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 18:16:31 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 19:16:32 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 20:16:33 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 21:16:34 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 22:16:35 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Sun May 29 23:16:35 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 00:16:36 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+288K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 01:16:37 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 02:16:38 2016
+elasticsearch: cpu_util = 1.900000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 03:16:39 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 04:16:39 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 05:16:40 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 06:16:41 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 07:16:42 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 08:16:43 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 09:16:44 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 10:16:44 2016
+elasticsearch: cpu_util = 2.000000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 11:16:45 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 12:16:46 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.400000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 13:16:47 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.400000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 14:16:48 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Mon May 30 14:16:49 2016
+oneday average ecpu_util = 1.954167; emem_util = 0.300000.
+
+oneday average scpu_util = 8.133333; smem_util = 0.100000.
+
+oneday average icpu_util = 2.916667; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Mon May 30 15:16:49 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 16:16:49 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 17:16:50 2016
+elasticsearch: cpu_util = 2.100000; mem_util = 0.300000.
+33M	/opt/elasticsearch/lib
+292K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 18:16:51 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 19:16:52 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 20:16:53 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 21:16:54 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 22:16:55 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Mon May 30 23:16:56 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 00:16:56 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 01:16:57 2016
+elasticsearch: cpu_util = 2.200000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+572K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+9.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+9.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 02:16:58 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 03:16:59 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 04:17:00 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 05:17:01 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 06:17:01 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 07:17:02 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 08:17:03 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 09:17:04 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 10:17:05 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 11:17:06 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 12:17:06 2016
+elasticsearch: cpu_util = 2.300000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 13:17:07 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 14:17:08 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Tue May 31 14:17:09 2016
+oneday average ecpu_util = 2.250000; emem_util = 0.475000.
+
+oneday average scpu_util = 8.650000; smem_util = 0.100000.
+
+oneday average icpu_util = 3.091667; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Tue May 31 15:17:09 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 16:17:10 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 17:17:11 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+7.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+7.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 18:17:11 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.800000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 19:17:12 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 20:17:13 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.700000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 21:17:14 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 22:17:15 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.100000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Tue May 31 23:17:16 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.600000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 00:17:16 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 01:17:17 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+576K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+8.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+8.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 02:17:18 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.500000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 03:17:19 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.400000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 04:17:20 2016
+elasticsearch: cpu_util = 2.400000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.400000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 05:17:21 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.400000; mem_util = 0.100000.
+indexer: cpu_util = 3.000000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 06:17:21 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.2G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 07:17:22 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 08:17:23 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 09:17:24 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 10:17:25 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 11:17:25 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 12:17:26 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 13:17:27 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 14:17:28 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Wed Jun  1 14:17:29 2016
+oneday average ecpu_util = 2.441667; emem_util = 0.500000.
+
+oneday average scpu_util = 8.450000; smem_util = 0.100000.
+
+oneday average icpu_util = 2.995833; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Wed Jun  1 15:17:29 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 16:17:30 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 17:17:30 2016
+elasticsearch: cpu_util = 2.500000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 18:17:31 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 19:17:32 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 20:17:33 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 21:17:34 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 22:17:35 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Wed Jun  1 23:17:35 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 00:17:36 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 01:17:37 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+580K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 02:17:38 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+3.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 03:17:39 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+3.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 04:17:39 2016
+elasticsearch: cpu_util = 2.600000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 05:17:40 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 06:17:41 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 07:17:42 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 08:17:43 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+4.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+4.8G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 09:17:43 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.0G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 10:17:44 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.1G	/opt/elasticsearch/
+shipper: cpu_util = 8.300000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 11:17:45 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 12:17:46 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.2G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 13:17:47 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.3G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.3G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 14:17:48 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.4G	/opt/elasticsearch/
+shipper: cpu_util = 8.200000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Thu Jun  2 14:17:48 2016
+oneday average ecpu_util = 2.629167; emem_util = 0.500000.
+
+oneday average scpu_util = 8.250000; smem_util = 0.100000.
+
+oneday average icpu_util = 2.900000; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Thu Jun  2 15:17:48 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.900000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 16:17:49 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.5G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 17:17:50 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.100000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 18:17:51 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.6G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 19:17:52 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.7G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 20:17:52 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 8.000000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 21:17:53 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.8G	/opt/elasticsearch/
+shipper: cpu_util = 7.900000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 22:17:54 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.8G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 7.900000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Thu Jun  2 23:17:55 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+5.9G	/opt/elasticsearch/
+shipper: cpu_util = 7.900000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 00:17:56 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+5.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.0G	/opt/elasticsearch/
+shipper: cpu_util = 7.900000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 01:17:57 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+584K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+6.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+6.0G	/opt/elasticsearch/
+shipper: cpu_util = 7.800000; mem_util = 0.100000.
+indexer: cpu_util = 2.800000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 02:17:57 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.5G	/opt/elasticsearch/
+shipper: cpu_util = 7.800000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 03:17:58 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.4G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.4G	/opt/elasticsearch/
+shipper: cpu_util = 7.800000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 04:17:59 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.6G	/opt/elasticsearch/
+shipper: cpu_util = 7.700000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 05:18:00 2016
+elasticsearch: cpu_util = 2.700000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.5G	/opt/elasticsearch/
+shipper: cpu_util = 7.700000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 06:18:01 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.5G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.6G	/opt/elasticsearch/
+shipper: cpu_util = 7.700000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 07:18:01 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.6G	/opt/elasticsearch/
+shipper: cpu_util = 7.600000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 08:18:02 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.6G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.6G	/opt/elasticsearch/
+shipper: cpu_util = 7.600000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 09:18:03 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.7G	/opt/elasticsearch/
+shipper: cpu_util = 7.600000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 10:18:04 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.7G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.8G	/opt/elasticsearch/
+shipper: cpu_util = 7.600000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 11:18:05 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.9G	/opt/elasticsearch/
+shipper: cpu_util = 7.500000; mem_util = 0.100000.
+indexer: cpu_util = 2.700000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 12:18:05 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.9G	/opt/elasticsearch/
+shipper: cpu_util = 7.500000; mem_util = 0.100000.
+indexer: cpu_util = 2.600000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 13:18:06 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+1.9G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+1.9G	/opt/elasticsearch/
+shipper: cpu_util = 7.500000; mem_util = 0.100000.
+indexer: cpu_util = 2.600000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 14:18:07 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+2.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+2.0G	/opt/elasticsearch/
+shipper: cpu_util = 7.500000; mem_util = 0.100000.
+indexer: cpu_util = 2.600000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+Fri Jun  3 14:18:08 2016
+oneday average ecpu_util = 2.737500; emem_util = 0.500000.
+
+oneday average scpu_util = 7.783333; smem_util = 0.100000.
+
+oneday average icpu_util = 2.737500; imem_util = 0.200000.
+
+oneday average kcpu_util = 0.000000; kmem_util = 0.000000.
+
+Fri Jun  3 15:18:08 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+2.0G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+2.1G	/opt/elasticsearch/
+shipper: cpu_util = 7.400000; mem_util = 0.100000.
+indexer: cpu_util = 2.600000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+Fri Jun  3 16:18:09 2016
+elasticsearch: cpu_util = 2.800000; mem_util = 0.500000.
+33M	/opt/elasticsearch/lib
+588K	/opt/elasticsearch/logs
+24K	/opt/elasticsearch/config
+2.1G	/opt/elasticsearch/data
+328K	/opt/elasticsearch/bin
+2.1G	/opt/elasticsearch/
+shipper: cpu_util = 7.400000; mem_util = 0.100000.
+indexer: cpu_util = 2.600000; mem_util = 0.200000.
+kibana: cpu_util = 0.000000; mem_util = 0.000000.
+
+
+
+[root@host_192_51_151_2 ~]# free -h
+             total       used       free     shared    buffers     cached
+Mem:          251G       223G        28G       4.1G       311M       185G
+-/+ buffers/cache:        37G       214G
+Swap:         4.0G       1.3G       2.7G
+[root@host_192_51_151_2 ~]# 
