@@ -1,0 +1,377 @@
+Fri May 27 15:28:17 2016
+shipper: cpu_util = 0.500000; mem_util = 0.100000.
+Fri May 27 16:28:17 2016
+shipper: cpu_util = 0.500000; mem_util = 0.100000.
+Fri May 27 17:28:17 2016
+shipper: cpu_util = 0.500000; mem_util = 0.100000.
+Fri May 27 18:28:17 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri May 27 19:28:18 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri May 27 20:28:18 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri May 27 21:28:18 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri May 27 22:28:18 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri May 27 23:28:19 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 00:28:19 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 01:28:19 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 02:28:19 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 03:28:20 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 04:28:20 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 05:28:20 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 06:28:20 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 07:28:21 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 08:28:21 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 09:28:21 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 10:28:21 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 11:28:21 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 12:28:22 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 13:28:22 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 14:28:22 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Sat May 28 14:28:22 2016
+oneday average scpu_util = 0.412500; smem_util = 0.100000.
+
+Sat May 28 15:28:22 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 16:28:23 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 17:28:23 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 18:28:23 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 19:28:23 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 20:28:23 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 21:28:24 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 22:28:24 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sat May 28 23:28:24 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 00:28:24 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 01:28:25 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 02:28:25 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 03:28:25 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 04:28:25 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 05:28:26 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 06:28:26 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 07:28:26 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 08:28:26 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 09:28:27 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 10:28:27 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 11:28:27 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 12:28:27 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 13:28:27 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 14:28:28 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Sun May 29 14:28:28 2016
+oneday average scpu_util = 0.400000; smem_util = 0.100000.
+
+Sun May 29 15:28:28 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 16:28:28 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 17:28:28 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 18:28:29 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 19:28:29 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 20:28:29 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 21:28:29 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 22:28:30 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Sun May 29 23:28:30 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 00:28:30 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 01:28:30 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 02:28:30 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 03:28:31 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 04:28:31 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 05:28:31 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 06:28:31 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 07:28:32 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 08:28:32 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 09:28:32 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 10:28:32 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 11:28:33 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 12:28:33 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 13:28:33 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 14:28:33 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+
+Mon May 30 14:28:33 2016
+oneday average scpu_util = 0.370833; smem_util = 0.100000.
+
+Mon May 30 15:28:33 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 16:28:34 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 17:28:34 2016
+shipper: cpu_util = 0.300000; mem_util = 0.100000.
+Mon May 30 18:28:34 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 19:28:34 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 20:28:35 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 21:28:35 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 22:28:35 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Mon May 30 23:28:35 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 00:28:36 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 01:28:36 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 02:28:36 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 03:28:36 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 04:28:36 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 05:28:37 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 06:28:37 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 07:28:37 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 08:28:37 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 09:28:38 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 10:28:38 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 11:28:38 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 12:28:38 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 13:28:38 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 14:28:39 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Tue May 31 14:28:39 2016
+oneday average scpu_util = 0.387500; smem_util = 0.100000.
+
+Tue May 31 15:28:39 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 16:28:39 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 17:28:39 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 18:28:40 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 19:28:40 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 20:28:40 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 21:28:40 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 22:28:41 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Tue May 31 23:28:41 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 00:28:41 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 01:28:41 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 02:28:42 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 03:28:42 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 04:28:42 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 05:28:42 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 06:28:42 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 07:28:43 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 08:28:43 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 09:28:43 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 10:28:43 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 11:28:44 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 12:28:44 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 13:28:44 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 14:28:44 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Wed Jun  1 14:28:44 2016
+oneday average scpu_util = 0.400000; smem_util = 0.100000.
+
+Wed Jun  1 15:28:45 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 16:28:45 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 17:28:45 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 18:28:45 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 19:28:45 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 20:28:46 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 21:28:46 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 22:28:46 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Wed Jun  1 23:28:46 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 00:28:47 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 01:28:47 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 02:28:47 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 03:28:47 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 04:28:48 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 05:28:48 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 06:28:48 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 07:28:48 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 08:28:49 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 09:28:49 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 10:28:49 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 11:28:49 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 12:28:50 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 13:28:50 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 14:28:50 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Thu Jun  2 14:28:50 2016
+oneday average scpu_util = 0.400000; smem_util = 0.100000.
+
+Thu Jun  2 15:28:50 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 16:28:50 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 17:28:51 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 18:28:51 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 19:28:51 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 20:28:51 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 21:28:52 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 22:28:52 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Thu Jun  2 23:28:52 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 00:28:52 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 01:28:52 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 02:28:53 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 03:28:53 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 04:28:53 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 05:28:53 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 06:28:54 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 07:28:54 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 08:28:54 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 09:28:54 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 10:28:55 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 11:28:55 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 12:28:55 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 13:28:55 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 14:28:55 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+Fri Jun  3 14:28:56 2016
+oneday average scpu_util = 0.400000; smem_util = 0.100000.
+
+Fri Jun  3 15:28:56 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+Fri Jun  3 16:28:56 2016
+shipper: cpu_util = 0.400000; mem_util = 0.100000.
+
+
+
+[root@host_192_51_151_5 home]# free -h
+             total       used       free     shared    buffers     cached
+Mem:          251G       162G        89G       1.7G       157M       120G
+-/+ buffers/cache:        42G       209G
+Swap:           0B         0B         0B
+

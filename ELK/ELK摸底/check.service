@@ -1,0 +1,10 @@
+[Unit]
+Description=check Service
+After=syslog.target network.target 
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python /root/check_l.py
+
+[Install]
+WantedBy=multi-user.target
