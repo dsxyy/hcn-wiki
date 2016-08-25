@@ -13,7 +13,7 @@ Ceilometer组件的目标是为计费系统提供所需的测量指标，以便�
 ## 系统架构
 
 ### 高层体系架构
----
+
 ![Ceilometer逻辑架构图](./images/ceilo-arch.png)
 
 如上图所示，Ceilometer每个服务都支持弹性伸缩：管理员可根据系统的负荷调整woker或者node。Ceilometer有3个核心服务：2个获取所需数据的agent，1个搜集并保存数据的agent，两类agent相互独立，又相互协作，完成Ceilometer相关功能
@@ -26,7 +26,7 @@ Ceilometer组件的目标是为计费系统提供所需的测量指标，以便�
 Ceilometer需要采集的数据越来越多，旧的存储机制已成为瓶颈。为解决此问题，Openstack社区开发了一个新项目：Gnocchi（Gnocchi是一个时间序列存储后端，它对存储和检索时间序列的数据有着天然的性能优势），专门向外提供Metric数据的存储和查询服务。
 
 ![Ceilometer+Gnocchi逻辑架构图](./images/ceilo-gnocchi-arch.png)
-
+---
 
 ### 搜集数据
 
@@ -39,7 +39,7 @@ Ceilometer需要采集的数据越来越多，旧的存储机制已成为瓶颈�
 Ceilometer有两种方案采集数据：
 1. 被动监听(notification agent)，捕获各Openstack服务推送至消息服务器的数据，这是数据采集的首选方案。
 2. 主动轮询(polling agent)，定时调用个Openstack服务的API接口以及libvirt接口获取采集数据。因定时轮训API接口会对Openstack服务造成负荷，故是次选方案。
-
+---
 
 #### Notification Agents: 被动监听消息总线，获取数据
 
@@ -47,7 +47,7 @@ Ceilometer有两种方案采集数据：
 
 系统的主体就是notification进程(agen-notification)。notification agent监听消息总线，Openstack各服务(如Nova, Glance, Cinder, Neutron, Swift, Keystone, Heat, 甚至Ceilometer自身)将Ceilometer所需数据推送至消息队列。
 Notification进程在启动时会加载命名空间为`ceilometer.notification`的所有插件。插件跟根据配置监听任一`topic`的消息队列，默认监听`notifications.info`。
-
+---
 
 
 
