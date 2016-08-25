@@ -27,11 +27,12 @@ Ceilometer需要采集的数据越来越多，旧的存储机制已成为瓶颈�
 
 ![Ceilometer+Gnocchi逻辑架构图](./images/ceilo-gnocchi-arch.png)
 
+
 ### 搜集数据
----
+
 
 #### 如何搜集数据
----
+
 ![Polling+Notification示意图](./images/1-agents.png)
 
 上图展示了Polling agent和Notification agent如何分工协作，从多个源头采集所需数据。
@@ -41,15 +42,17 @@ Ceilometer有两种方案采集数据：
 
 
 #### Notification Agents: 被动监听消息总线，获取数据
----
+
 ![Notification处理消息总线上的消息](./images/2-1-collection-notification.png)
 
 系统的主体就是notification进程(agen-notification)。notification agent监听消息总线，Openstack各服务(如Nova, Glance, Cinder, Neutron, Swift, Keystone, Heat, 甚至Ceilometer自身)将Ceilometer所需数据推送至消息队列。
 Notification进程在启动时会加载命名空间为`ceilometer.notification`的所有插件。插件跟根据配置监听任一`topic`的消息队列，默认监听`notifications.info`。
 
 
+
+
 #### Polling Agents: 主动轮询，索取数据
----
+
 ![Polling agent](./images/2-2-collection-poll.png)
 
 Polling agent进程主动向目标查询数据，如按数据源划分，polling agent承担两种角色：
