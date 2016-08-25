@@ -15,6 +15,7 @@ Ceilometer组件的目标是为计费系统提供所需的测量指标，以便�
 ### 高层体系架构
 ---
 ![Ceilometer逻辑架构图](./images/ceilo-arch.png)
+
 如上图所示，Ceilometer每个服务都支持弹性伸缩：管理员可根据系统的负荷调整woker或者node。Ceilometer有3个核心服务：2个获取所需数据的agent，1个搜集并保存数据的agent，两类agent相互独立，又相互协作，完成Ceilometer相关功能
 
 1. polling agent: 从Openstack各服务或libvrit等轮询数据
@@ -31,6 +32,7 @@ Ceilometer需要采集的数据越来越多，旧的存储机制已成为瓶颈�
 #### 如何搜集数据
 ---
 ![Polling+Notification示意图](./images/1-agents.png)
+
 上图展示了Polling agent和Notification agent如何分工协作，从多个源头采集所需数据。
 Ceilometer有两种方案采集数据：
 1. 被动监听(notification agent)，捕获各Openstack服务推送至消息服务器的数据，这是数据采集的首选方案。
