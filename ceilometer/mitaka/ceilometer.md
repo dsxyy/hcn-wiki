@@ -24,6 +24,7 @@ Ceilometer组件的目标是为计费系统提供所需的测量指标，以便�
 4. (可选)api: 查询由collect保存下来的数据
 
 Ceilometer需要采集的数据越来越多，旧的存储机制已成为瓶颈。为解决此问题，Openstack社区开发了一个新项目：Gnocchi（Gnocchi是一个时间序列存储后端，它对存储和检索时间序列的数据有着天然的性能优势），专门向外提供Metric数据的存储和查询服务。
+
 ![Ceilometer+Gnocchi逻辑架构图](./images/ceilo-gnocchi-arch.png)
 
 ### 搜集数据
