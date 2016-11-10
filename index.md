@@ -6,6 +6,8 @@
   * [M版本Ceilometer架构分析](ceilometer/mitaka/ceilometer.md)
     - [agent-notification代码分析](ceilometer/mitaka/agent-notification代码分析.md)
     - [polling agent代码分析](ceilometer/mitaka/Ceilometer M版本polling代码分析/ceilometer-polling分析.md)
+    - [ceilometer M 版本collector代码分析](ceilometer/mitaka/ceilometer M 版本collector代码分析.md)
+    - [ceilometer M 版本API启动方式](ceilometer/mitaka/ceilometer M 版本API启动方式.md)
 
 
   * [Ceilometer H版本方案设计](ceilometer/Ceilometer方案设计.pdf)
