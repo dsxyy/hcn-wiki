@@ -1,0 +1,195 @@
+{
+  "AWSTemplateFormatVersion" : "2010-09-09",
+  "Description" : "AWS CloudFormation Sample Template WordPress_Multi_Instance: WordPress is web software you can use to create a beautiful website or blog. This template installs two instances: one running a WordPress deployment and the other using a local MySQL database to store the data.",
+  "Parameters" : {
+    "KeyName" : {
+      "Default" : "heat-key",
+      "Description" : "Name of an existing EC2 KeyPair to enable SSH access to the instances",
+      "Type" : "String"
+    },
+    "InstanceType" : {
+      "Description" : "WebServer EC2 instance type",
+      "Type" : "String",
+      "Default" : "Fedora",
+      "AllowedValues" : [ "m1.tiny", "Fedora", "m1.small", "m1.medium", "m1.large", "m1.xlarge" ],
+      "ConstraintDescription" : "must be a valid EC2 instance type."
+    },
+    "HupPollInterval": {
+      "Default": "1",
+      "Description" : "Interval for cfn-hup",
+      "Type": "String"
+    }
+  },
+  "Resources" : {
+    "CfnUser" : {
+      "Type" : "AWS::IAM::User"
+    },
+    "WebServerKeys" : {
+      "Type" : "AWS::IAM::AccessKey",
+      "Properties" : {
+        "UserName" : {"Ref": "CfnUser"}
+      }
+    },
+    "WebServerRestartPolicy" : {
+      "Type" : "OS::Heat::HARestarter",
+      "Properties" : {
+        "InstanceId" : { "Ref" : "WikiDatabase" }
+      }
+    },
+    "HttpFailureAlarm": {
+      "Type": "AWS::CloudWatch::Alarm",
+      "Properties": {
+        "AlarmDescription": "Restart the WikiDatabase if sshd fails > 2 times in 1 minutes",
+        "MetricName": "ServiceFailure",
+        "Namespace": "system/linux",
+        "Statistic": "SampleCount",
+        "Period": "60",
+        "EvaluationPeriods": "1",
+        "Threshold": "2",
+        "AlarmActions": [ { "Ref": "WebServerRestartPolicy" } ],
+        "ComparisonOperator": "GreaterThanThreshold"
+      }
+    },
+    "WikiDatabase": {
+      "Type": "OS::Nova::Server",
+      "Metadata" : {
+        "AWS::CloudFormation::Init" : {
+          "config" : {
+            "files" : {
+              "/etc/cfn/cfn-credentials" : {
+                "content" : { "Fn::Join" : ["", [
+                  "AWSAccessKeyId=", { "Ref" : "WebServerKeys" }, "\n",
+                  "AWSSecretKey=", {"Fn::GetAtt": ["WebServerKeys",
+                                    "SecretAccessKey"]}, "\n"
+                ]]},
+                "mode"    : "000400",
+                "owner"   : "root",
+                "group"   : "root"
+              },
+              "/etc/cfn/cfn-hup.conf" : {
+                "content" : { "Fn::Join" : ["", [
+                  "[main]\n",
+                  "stack=", { "Ref" : "AWS::StackName" }, "\n",
+                  "credential-file=/etc/cfn/cfn-credentials\n",
+                  "region=", { "Ref" : "AWS::Region" }, "\n",
+                  "interval=", { "Ref" : "HupPollInterval" }, "\n"
+                ]]},
+                "mode"    : "000400",
+                "owner"   : "root",
+                "group"   : "root"
+              },
+              "/etc/cfn/notify-on-httpd-restarted" : {
+                "content" : { "Fn::Join" : ["", [
+                "#!/bin/sh\n",
+                "/usr/bin/cfn-push-stats --watch ",
+                { "Ref" : "HttpFailureAlarm" },
+                " --service-failure\n"
+                ]]},
+                "mode"    : "000700",
+                "owner"   : "root",
+                "group"   : "root"
+              },
+              "/tmp/cfn-hup-crontab.txt" : {
+                "content" : { "Fn::Join" : ["", [
+                "MAIL=\"\"\n",
+                "\n",
+                "* * * * * /usr/bin/cfn-hup -f\n"
+                ]]},
+                "mode"    : "000600",
+                "owner"   : "root",
+                "group"   : "root"
+              },
+              "/etc/cfn/hooks.conf" : {
+                "content": { "Fn::Join" : ["", [
+                  "[cfn-http-restarted]\n",
+                  "triggers=service.restarted\n",
+                  "path=Resources.WikiDatabase.Metadata\n",
+                  "action=/etc/cfn/notify-on-httpd-restarted\n",
+                  "runas=root\n"
+                ]]},
+                "mode"    : "000400",
+                "owner"   : "root",
+                "group"   : "root"
+              },
+              "/etc/boto.cfg" : {
+                "content" : { "Fn::Join" : ["", [
+                  "[Credentials]\n",
+                  "aws_access_key_id=", { "Ref" : "WebServerKeys" }, "\n",
+                  "aws_secret_access_key=", {"Fn::GetAtt": ["WebServerKeys",
+                                    "SecretAccessKey"]}, "\n",
+                  "[Boto]\n",
+                  "debug = 0\n",
+                  "is_secure = 0 # Set this to 1 if you want https\n",
+                  "cfn_region_name = heat\n",
+                  "cfn_region_endpoint = 10.43.179.4\n\n",
+                  "cloudwatch_region_name = heat\n",
+                  "cloudwatch_region_endpoint = 10.43.179.4\n\n",
+                  "# Set the client retries to 1, or errors connecting to heat repeat\n",
+                  "# which is not useful when debugging API issues\n",
+                  "num_retries = 1\n"
+                ]]},
+                "mode"    : "000400",
+                "owner"   : "root",
+                "group"   : "root"
+              }
+            },
+            "packages" : {
+              "yum" : {
+                "cronie"       : []
+              }
+            },
+            "services" : {
+              "systemd" : {
+                "sshd"    : { "enabled" : "true", "ensureRunning" : "true" }
+              }
+            }
+          }
+        }
+      },
+      "Properties": {
+        "name"      : "fedora",
+        "image"     : "F20-i386",
+        "flavor"    : { "Ref" : "InstanceType" },
+        "key_name"  : { "Ref" : "KeyName" },
+        "admin_pass": "keystone",
+        "networks"  : [ {"network": "networks"} ] ,
+        "user_data_format": "HEAT_CFNTOOLS",
+        "user_data" : { "Fn::Base64" : { "Fn::Join" : ["", [
+          "#!/bin/bash -v\n",          
+          "# Helper function\n",
+          "function error_exit\n",
+          "{\n",
+          "  /usr/bin/cfn-signal -e 1 -r \"$1\" '", { "Ref" : "WaitHandle" }, "'\n",
+          "  exit 1\n",
+          "}\n",
+
+          "/usr/bin/cfn-init -s ", { "Ref" : "AWS::StackName" },
+          " -r WikiDatabase ",
+          " --access-key ", { "Ref" : "WebServerKeys" },
+          " --secret-key ", {"Fn::GetAtt": ["WebServerKeys", "SecretAccessKey"]},
+          " --region ", { "Ref" : "AWS::Region" },
+          " || error_exit 'Failed to run cfn-init'\n",
+
+          "# install cfn-hup crontab\n",
+          "crontab /tmp/cfn-hup-crontab.txt\n",
+
+          "# All is well so signal success\n",
+          "/usr/bin/cfn-signal -e 0 -r \"Wiki server setup complete\" '",
+          { "Ref" : "WaitHandle" }, "'\n"
+        ]]}}
+      }
+    },
+    "WaitHandle" : {
+      "Type" : "AWS::CloudFormation::WaitConditionHandle"
+    },
+    "WaitCondition" : {
+      "Type" : "AWS::CloudFormation::WaitCondition",
+      "DependsOn" : "WikiDatabase",
+      "Properties" : {
+        "Handle" : {"Ref" : "WaitHandle"},
+        "Count" : "1",
+        "Timeout" : "600"
+      }
+    }
+  }
+}

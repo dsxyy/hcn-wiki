@@ -1,0 +1,125 @@
+heat_template_version: 2013-05-23
+
+description: >
+  HOT template to deploy two servers into an existing neutron tenant network and
+  assign floating IP addresses to each server so they are routable from the
+  public network.
+
+resources:
+  public_net:
+    type: OS::Neutron::Net
+    properties:
+      name: heat_public_net1
+      shared: True  
+      value_specs: {"router:external": True,
+			"provider:network_type": flat,
+			"provider:physical_network": physnet2} 
+
+  public_subnet:
+    type: OS::Neutron::Subnet
+    properties:
+      network_id: { get_resource: public_net }
+      name: heat_public_subnet1
+      cidr: 10.43.178.0/23
+      gateway_ip: 10.43.178.1
+      allocation_pools:
+        - start: 10.43.179.91
+          end: 10.43.179.94
+
+  internal_net:
+    type: OS::Neutron::Net
+    properties:
+      name: heat_internal_net1
+      shared: True  
+
+  internal_subnet:
+    type: OS::Neutron::Subnet
+    properties:
+      network_id: { get_resource: internal_net }
+      name: heat_internal_subnet1
+      cidr: 10.0.1.0/24
+      
+  router:
+    type: OS::Neutron::Router
+    properties:
+      name: heat_router1
+      external_gateway_info:
+        network: { get_resource: public_net }
+        
+  router_interface:
+    type: OS::Neutron::RouterInterface
+    properties:
+      router_id: { get_resource: router }
+      subnet_id: { get_resource: internal_subnet }
+
+  my_instance1:  
+    type: OS::Nova::Server  
+    properties:  
+      image: cirros
+      flavor: m1.tiny
+      name: heat_instance1
+      networks:
+        - port: { get_resource: server1_port }
+
+  server1_port:
+    type: OS::Neutron::Port
+    properties:
+      network_id: { get_resource: internal_net }
+      fixed_ips:
+        - subnet_id: { get_resource: internal_subnet }
+
+  instance1_floating_ip:
+    type: OS::Neutron::FloatingIP
+    properties:
+      floating_network_id: { get_resource: public_net }
+      port_id: { get_resource: server1_port }
+            
+  volume_test:
+    type: OS::Cinder::Volume
+    properties:
+      availability_zone: nova
+      description: test volume fuction
+      name: volume_fedora
+      size: 1
+  volume_attachment:
+    type: OS::Cinder::VolumeAttachment
+    properties:
+      instance_uuid: { get_resource: my_instance1 }
+      volume_id: { get_resource: volume_test }
+      
+      
+#################################################################
+#boot from volume
+
+  volume_test2:
+    type: OS::Cinder::Volume
+    properties:
+      name: volume_2
+      size: 1
+      image: cirros
+
+  my_instance2:  
+    type: OS::Nova::Server  
+    properties:  
+      block_device_mapping:
+        - device_name: vda
+          volume_id: { get_resource: volume_test2 }
+      flavor: m1.tiny
+      name: heat_instance2
+      networks:
+        - port: { get_resource: server2_port }
+
+  server2_port:
+    type: OS::Neutron::Port
+    properties:
+      network_id: { get_resource: internal_net }
+      fixed_ips:
+        - subnet_id: { get_resource: internal_subnet }
+
+  instance2_floating_ip:
+    type: OS::Neutron::FloatingIP
+    properties:
+      floating_network_id: { get_resource: public_net }
+      port_id: { get_resource: server2_port }
+      
+  

@@ -1,0 +1,45 @@
+heat_template_version: 2013-05-23
+
+description: Hello world HOT template that just defines a single server. Contains just base features to verify base HOT support.
+
+parameters:
+  httpurl: 
+    type: string
+    default: http://10.43.179.3/opencos/
+  vername:
+    type: string
+    default: opencos.bin
+resources:
+  one_test:
+    type: OS::Heat::SoftwareConfig
+    properties:
+      group: ungrouped
+      config: 
+        str_replace:
+          template: |
+            #!/bin/sh
+            cd ~
+            mkdir plugin
+            cd plugin
+            wget HttpUrl/VerName
+            wget HttpUrl/opencos_install.sh
+            chmod +x *
+            ./opencos_install.sh VerName
+          params: 
+            VerName: {get_param: vername }
+            HttpUrl: {get_param: httpurl }
+  server_init:
+    type: OS::Heat::MultipartMime
+    properties:
+      parts:
+        - config: {get_resource: one_test}
+  WikiDatabase:
+    type: OS::Nova::Server
+    properties:
+      name: cgslv5
+      image: cgslv5-i289
+      flavor: m1.medium
+      networks: [ network: networks ]
+      user_data_format: RAW
+      user_data: 
+        get_resource: server_init

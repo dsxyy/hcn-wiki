@@ -1,0 +1,82 @@
+heat_template_version: 2013-05-23
+
+description: Hello world HOT template that just defines a single server. Contains just base features to verify base HOT support.
+
+parameters:
+  keyname: 
+    type: string
+    description: Name of an existing EC2 KeyPair to enable SSH access to the instances
+    default: heat-key
+  yumname: 
+    type: string
+    default: opencos
+    description: Yum name
+  httpurl: 
+    type: string
+    default: http://10.43.179.3/opencos/
+  vername:
+    type: string
+    default: opencos.bin
+resources:
+  one_test:
+    type: OS::Heat::CloudConfig
+    properties:
+      cloud_config:
+        write_files:
+          - path: /etc/yum.repos.d/opencos.repo
+  two_test:
+    type: OS::Heat::SoftwareConfig
+    depends_on: [one_test]
+    properties:
+      group: ungrouped
+      config: 
+        str_replace:
+          template: |
+            #!/bin/sh
+            cd /etc/yum.repos.d/
+            rm -f *
+            #/etc/yum.repos.d/opencos.repo
+            echo -n "[" > /etc/yum.repos.d/opencos.repo
+            echo -n YumName >> /etc/yum.repos.d/opencos.repo
+            echo "]" >> /etc/yum.repos.d/opencos.repo
+            echo -n "name=" >> /etc/yum.repos.d/opencos.repo
+            echo YumName >> /etc/yum.repos.d/opencos.repo
+            echo -n "baseurl=" >> /etc/yum.repos.d/opencos.repo
+            echo HttpUrl >> /etc/yum.repos.d/opencos.repo
+            echo "enabled=1" >> /etc/yum.repos.d/opencos.repo
+            echo "gpgcheck=0" >> /etc/yum.repos.d/opencos.repo
+            echo "priority=10" >> /etc/yum.repos.d/opencos.repo
+          params: 
+            YumName: {get_param: yumname }
+            HttpUrl: {get_param: httpurl }
+  heatcfn_cfg:
+    type: OS::Heat::SoftwareConfig
+    properties:
+      group: ungrouped
+      config:
+        str_replace:
+          template: |
+            #!/bin/sh
+            yum clean all
+            yum --disablerepo=* --enablerepo=YumName install -y wget
+          params:
+            YumName: {get_param: yumname }
+  server_init:
+    type: OS::Heat::MultipartMime
+    properties:
+      parts:
+        - config: {get_resource: one_test}
+        - config: {get_resource: two_test}
+        - config: {get_resource: heatcfn_cfg}
+  WikiDatabase:
+    type: OS::Nova::Server
+    properties:
+      name: cgslv5
+      image: cgslv5-i289x
+      flavor: m2.medium
+      #key_name: {get_param: keyname}
+      admin_pass: temp
+      networks: [ network: networks ]
+      user_data_format: RAW
+      user_data: 
+        get_resource: server_init
